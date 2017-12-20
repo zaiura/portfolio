@@ -1,5 +1,5 @@
-document.write('<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=yourKeyHere&callback=myMap"></script>');
-// 
+document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfsbaXxP_nvLtPZrCF7a7oqHoCz3aJPyg&callback=myMap"></script>');
+
 function myMap() {
     myCenter=new google.maps.LatLng(38.2221055, -80.536283);
     var mapOptions= {
